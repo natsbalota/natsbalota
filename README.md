@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @natsbalota
-- 👀 I’m interested in programming and data analytics
-- 🌱 I’m currently learning web and computer programming
-- 💞️ I’m looking to collaborate on programming projects and developments
+- 👀 I’m interested in Programming, and Data Analytics
+- 🌱 I’m currently learning Web and Computer Programming
+- 💞️ I’m looking to collaborate on Programming projects and developments
 - 📫 You can reach me through email: ncbalota@gmail.com
 
 <!---
